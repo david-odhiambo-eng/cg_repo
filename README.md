@@ -1,2 +1,2 @@
 # Campus glide
-Some descriptions
+Some descriptions done now
